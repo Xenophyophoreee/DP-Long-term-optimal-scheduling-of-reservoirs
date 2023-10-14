@@ -2,7 +2,7 @@
 # 使用dp算法进行互补系统风光水调度
 # 其中风光出力以及径流数据确定,通过调整发电水位来保证总发电量最大
 # 尺度为长尺度计算,计算尺度为日尺度
-# 创建人:姬新洋
+
 import time  # 加载计时模块
 import matplotlib.pyplot as plt  #加载绘图模块
 import numpy as np  # 加载矩阵运算模块
